@@ -12,7 +12,6 @@ pygame.display.set_caption('Snake Game')
 # Define Colors
 WHITE = (255,255,255)
 BLACK = (0, 0, 0)
-RED = (255, 0, 0)  # Color for the fruit
 GREEN = (0, 255, 0)  # Color for the snake
 
 # Square properties
